@@ -7,6 +7,10 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/aguaishuo/remotion-zh?style=social)](https://github.com/aguaishuo/remotion-zh)
 
+[![预览](_screenshots/preview-hero.png)](https://aguaishuo.github.io/remotion-zh/)
+
+<sub>↑ 首页截图（点图跳在线预览）· 完整长图见 [`_screenshots/preview-full.png`](_screenshots/preview-full.png)</sub>
+
 ---
 
 ## 这是什么
