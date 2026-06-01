@@ -1,0 +1,200 @@
+[
+  {
+    "folder": "AI生成动画-prompt-to-motion-graphics",
+    "cn_name": "AI 生成动画",
+    "en_slug": "prompt-to-motion-graphics",
+    "category": "AI 驱动",
+    "description": "实验性 - LLM 驱动 motion graphics 排版",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "AI生成视频-prompt-to-video",
+    "cn_name": "AI 生成视频",
+    "en_slug": "prompt-to-video",
+    "category": "AI 驱动",
+    "description": "实验性 - 文字 prompt 直出视频",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "Electron桌面应用-electron",
+    "cn_name": "Electron 桌面应用",
+    "en_slug": "electron",
+    "category": "集成框架",
+    "description": "打包成 Mac/Win 桌面应用",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "GitHub星标展示-stargazer",
+    "cn_name": "GitHub 星标展示",
+    "en_slug": "stargazer",
+    "category": "专项工具",
+    "description": "里程碑庆祝、头像列表动画",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "NextJS-AppRouter-next-app",
+    "cn_name": "Next.js App Router",
+    "en_slug": "next-app",
+    "category": "集成框架",
+    "description": "Next.js 13+ App Router 内嵌",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "NextJS-PagesRouter-next-pages",
+    "cn_name": "Next.js Pages Router",
+    "en_slug": "next-pages",
+    "category": "集成框架",
+    "description": "Next.js Pages Router 内嵌",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "NextJS-Tailwind-next-app-tailwind",
+    "cn_name": "Next.js + Tailwind",
+    "en_slug": "next-app-tailwind",
+    "category": "集成框架",
+    "description": "Next.js + Tailwind 内嵌",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "React-Router集成-react-router",
+    "cn_name": "React Router 集成",
+    "en_slug": "react-router",
+    "category": "集成框架",
+    "description": "React Router 7 SPA 内嵌",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "Vercel云渲染-vercel",
+    "cn_name": "Vercel 云渲染",
+    "en_slug": "vercel",
+    "category": "集成框架",
+    "description": "推到 Vercel 云端渲染",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "纯JS项目-javascript",
+    "cn_name": "纯 JS 项目",
+    "en_slug": "javascript",
+    "category": "集成框架",
+    "description": "不用 TypeScript 的纯 JS",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "代码演示动画-code-hike",
+    "cn_name": "代码演示动画",
+    "en_slug": "code-hike",
+    "category": "动效特效",
+    "description": "Code Hike 集成、语法高亮",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "抖音竖屏短视频-tiktok",
+    "cn_name": "抖音竖屏短视频",
+    "en_slug": "tiktok",
+    "category": "短视频/海报",
+    "description": "9:16 短视频，内置 whisper 字幕、TTS",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "浮层覆盖-overlay",
+    "cn_name": "浮层覆盖",
+    "en_slug": "overlay",
+    "category": "动效特效",
+    "description": "视频上叠加字幕/标签/水印",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "高性能2D-skia",
+    "cn_name": "高性能 2D",
+    "en_slug": "skia",
+    "category": "动效特效",
+    "description": "Skia 渲染引擎，大量元素 2D 动画",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "静态海报-still",
+    "cn_name": "静态海报",
+    "en_slug": "still",
+    "category": "短视频/海报",
+    "description": "单帧静态图输出 PNG/JPG",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "空白起点-blank",
+    "cn_name": "空白起点",
+    "en_slug": "blank",
+    "category": "短视频/海报",
+    "description": "从零搭新项目",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "屏幕录制-recorder",
+    "cn_name": "屏幕录制",
+    "en_slug": "recorder",
+    "category": "专项工具",
+    "description": "自带 Recorder 工作台",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "入门示例-helloworld",
+    "cn_name": "入门示例",
+    "en_slug": "helloworld",
+    "category": "短视频/海报",
+    "description": "最小可运行示例",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "三维场景-three",
+    "cn_name": "三维场景",
+    "en_slug": "three",
+    "category": "动效特效",
+    "description": "React Three Fiber 集成",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "渲染服务器-render-server",
+    "cn_name": "渲染服务器",
+    "en_slug": "render-server",
+    "category": "集成框架",
+    "description": "自建 HTTP 渲染服务",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "音乐可视化-music-visualization",
+    "cn_name": "音乐可视化",
+    "en_slug": "music-visualization",
+    "category": "音频驱动",
+    "description": "Spectrum 频谱可视化",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  },
+  {
+    "folder": "音频波形播客-audiogram",
+    "cn_name": "音频波形播客",
+    "en_slug": "audiogram",
+    "category": "音频驱动",
+    "description": "波形+字幕，配套 transcribe.ts",
+    "source": "remotion-dev/remotion monorepo packages/template-* (sparse-checkout)",
+    "tier": "official"
+  }
+]

@@ -1,0 +1,34 @@
+# 案例源码运行时 git clone 拉下来，不提交到本仓库
+案例展示Showcase/案例源码/
+_remotion_monorepo/
+
+# 22 个 Remotion 官方模板源码（运行 fetch-all.sh 时生成）
+AI生成动画-prompt-to-motion-graphics/
+AI生成视频-prompt-to-video/
+Electron桌面应用-electron/
+GitHub星标展示-stargazer/
+NextJS-AppRouter-next-app/
+NextJS-PagesRouter-next-pages/
+NextJS-Tailwind-next-app-tailwind/
+React-Router集成-react-router/
+Vercel云渲染-vercel/
+纯JS项目-javascript/
+代码演示动画-code-hike/
+抖音竖屏短视频-tiktok/
+浮层覆盖-overlay/
+高性能2D-skia/
+静态海报-still/
+空白起点-blank/
+屏幕录制-recorder/
+入门示例-helloworld/
+三维场景-three/
+渲染服务器-render-server/
+音乐可视化-music-visualization/
+音频波形播客-audiogram/
+
+# macOS
+.DS_Store
+
+# 临时文件
+*.tmp
+*.log

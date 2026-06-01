@@ -1,0 +1,812 @@
+[
+  {
+    "folder": "3D地球GL-remotion-globegl",
+    "cn_name": "3D地球GL",
+    "en_slug": "remotion-globegl",
+    "owner": "alexfernandez803",
+    "repo": "remotion-globegl",
+    "github_url": "https://github.com/alexfernandez803/remotion-globegl",
+    "category": "3D/Three.js"
+  },
+  {
+    "folder": "3D文字效果-3d-text",
+    "cn_name": "3D文字效果",
+    "en_slug": "3d-text",
+    "owner": "remotion-dev",
+    "repo": "3d-text",
+    "github_url": "https://github.com/remotion-dev/3d-text",
+    "category": "3D/Three.js"
+  },
+  {
+    "folder": "A-Roll视频排版-a-roll",
+    "cn_name": "A-Roll视频排版",
+    "en_slug": "a-roll",
+    "owner": "onion2k",
+    "repo": "a-roll",
+    "github_url": "https://github.com/onion2k/a-roll",
+    "category": "视频排版"
+  },
+  {
+    "folder": "AI主题视频管线-OpenReels",
+    "cn_name": "AI主题视频管线",
+    "en_slug": "OpenReels",
+    "owner": "tsensei",
+    "repo": "OpenReels",
+    "github_url": "https://github.com/tsensei/OpenReels",
+    "category": "AI 短视频管线"
+  },
+  {
+    "folder": "AI自动剪辑+字幕-auto-reel-edit",
+    "cn_name": "AI自动剪辑+字幕",
+    "en_slug": "auto-reel-edit",
+    "owner": "sieve-community",
+    "repo": "auto-reel-edit",
+    "github_url": "https://github.com/sieve-community/auto-reel-edit",
+    "category": "AI 短视频管线"
+  },
+  {
+    "folder": "AnimeJS集成-anime-example",
+    "cn_name": "AnimeJS集成",
+    "en_slug": "anime-example",
+    "owner": "remotion-dev",
+    "repo": "anime-example",
+    "github_url": "https://github.com/remotion-dev/anime-example",
+    "category": "其他/工具"
+  },
+  {
+    "folder": "Brainrot文转视频-brainrot.js",
+    "cn_name": "Brainrot文转视频",
+    "en_slug": "brainrot.js",
+    "owner": "noahgsolomon",
+    "repo": "brainrot.js",
+    "github_url": "https://github.com/noahgsolomon/brainrot.js",
+    "category": "AI 短视频管线"
+  },
+  {
+    "folder": "CSS动画播放控制-css-animation-play-state",
+    "cn_name": "CSS动画播放控制",
+    "en_slug": "css-animation-play-state",
+    "owner": "remotion-dev",
+    "repo": "css-animation-play-state",
+    "github_url": "https://github.com/remotion-dev/css-animation-play-state",
+    "category": "其他/工具"
+  },
+  {
+    "folder": "Claude启动器-claude-remotion-kickstart",
+    "cn_name": "Claude启动器",
+    "en_slug": "claude-remotion-kickstart",
+    "owner": "jhartquist",
+    "repo": "claude-remotion-kickstart",
+    "github_url": "https://github.com/jhartquist/claude-remotion-kickstart",
+    "category": "Claude/AI 工具"
+  },
+  {
+    "folder": "Claude视频工具包-claude-code-video-toolkit",
+    "cn_name": "Claude视频工具包",
+    "en_slug": "claude-code-video-toolkit",
+    "owner": "digitalsamba",
+    "repo": "claude-code-video-toolkit",
+    "github_url": "https://github.com/digitalsamba/claude-code-video-toolkit",
+    "category": "Claude/AI 工具"
+  },
+  {
+    "folder": "D3JS数据可视化-d3-example",
+    "cn_name": "D3JS数据可视化",
+    "en_slug": "d3-example",
+    "owner": "remotion-dev",
+    "repo": "d3-example",
+    "github_url": "https://github.com/remotion-dev/d3-example",
+    "category": "数据可视化"
+  },
+  {
+    "folder": "DVD经典Logo-dvd-logo",
+    "cn_name": "DVD经典Logo",
+    "en_slug": "dvd-logo",
+    "owner": "remotion-dev",
+    "repo": "dvd-logo",
+    "github_url": "https://github.com/remotion-dev/dvd-logo",
+    "category": "转场/动效"
+  },
+  {
+    "folder": "DevContainer模板-remotion-devcontainer-template",
+    "cn_name": "DevContainer模板",
+    "en_slug": "remotion-devcontainer-template",
+    "owner": "openscript",
+    "repo": "remotion-devcontainer-template",
+    "github_url": "https://github.com/openscript/remotion-devcontainer-template",
+    "category": "集成/部署"
+  },
+  {
+    "folder": "Docker部署模板-remotion-docker-template",
+    "cn_name": "Docker部署模板",
+    "en_slug": "remotion-docker-template",
+    "owner": "scotthavird",
+    "repo": "remotion-docker-template",
+    "github_url": "https://github.com/scotthavird/remotion-docker-template",
+    "category": "集成/部署"
+  },
+  {
+    "folder": "GL转场动画-gl-transitions",
+    "cn_name": "GL转场动画",
+    "en_slug": "gl-transitions",
+    "owner": "remotion-dev",
+    "repo": "gl-transitions",
+    "github_url": "https://github.com/remotion-dev/gl-transitions",
+    "category": "转场/动效"
+  },
+  {
+    "folder": "GPU场景测试-gpu-scene",
+    "cn_name": "GPU场景测试",
+    "en_slug": "gpu-scene",
+    "owner": "remotion-dev",
+    "repo": "gpu-scene",
+    "github_url": "https://github.com/remotion-dev/gpu-scene",
+    "category": "其他/工具"
+  },
+  {
+    "folder": "GTTS语音模板-remotion-gtts-template",
+    "cn_name": "GTTS语音模板",
+    "en_slug": "remotion-gtts-template",
+    "owner": "thecmdrunner",
+    "repo": "remotion-gtts-template",
+    "github_url": "https://github.com/thecmdrunner/remotion-gtts-template",
+    "category": "音频/字幕"
+  },
+  {
+    "folder": "GitHub年度回顾-github-unwrapped",
+    "cn_name": "GitHub年度回顾",
+    "en_slug": "github-unwrapped",
+    "owner": "remotion-dev",
+    "repo": "github-unwrapped",
+    "github_url": "https://github.com/remotion-dev/github-unwrapped",
+    "category": "GitHub 主题"
+  },
+  {
+    "folder": "GitHub年度回顾2021-github-unwrapped-2021",
+    "cn_name": "GitHub年度回顾2021",
+    "en_slug": "github-unwrapped-2021",
+    "owner": "remotion-dev",
+    "repo": "github-unwrapped-2021",
+    "github_url": "https://github.com/remotion-dev/github-unwrapped-2021",
+    "category": "GitHub 主题"
+  },
+  {
+    "folder": "GitHub年度回顾2022-github-unwrapped-2022",
+    "cn_name": "GitHub年度回顾2022",
+    "en_slug": "github-unwrapped-2022",
+    "owner": "remotion-dev",
+    "repo": "github-unwrapped-2022",
+    "github_url": "https://github.com/remotion-dev/github-unwrapped-2022",
+    "category": "GitHub 主题"
+  },
+  {
+    "folder": "GitHub矩阵渲染-Remotion-Matrix-Renderer",
+    "cn_name": "GitHub矩阵渲染",
+    "en_slug": "Remotion-Matrix-Renderer",
+    "owner": "yuvraj108c",
+    "repo": "Remotion-Matrix-Renderer",
+    "github_url": "https://github.com/yuvraj108c/Remotion-Matrix-Renderer",
+    "category": "GitHub 主题"
+  },
+  {
+    "folder": "ID3标签读取-id3-tags",
+    "cn_name": "ID3标签读取",
+    "en_slug": "id3-tags",
+    "owner": "remotion-dev",
+    "repo": "id3-tags",
+    "github_url": "https://github.com/remotion-dev/id3-tags",
+    "category": "音频/字幕"
+  },
+  {
+    "folder": "Lambda版Trailer-trailer-lambda",
+    "cn_name": "Lambda版Trailer",
+    "en_slug": "trailer-lambda",
+    "owner": "remotion-dev",
+    "repo": "trailer-lambda",
+    "github_url": "https://github.com/remotion-dev/trailer-lambda",
+    "category": "Remotion 官方"
+  },
+  {
+    "folder": "MUX数据可视化-mux-remotion-demo",
+    "cn_name": "MUX数据可视化",
+    "en_slug": "mux-remotion-demo",
+    "owner": "davekiss",
+    "repo": "mux-remotion-demo",
+    "github_url": "https://github.com/davekiss/mux-remotion-demo",
+    "category": "数据可视化"
+  },
+  {
+    "folder": "MapLibre地图-maplibre-example",
+    "cn_name": "MapLibre地图",
+    "en_slug": "maplibre-example",
+    "owner": "remotion-dev",
+    "repo": "maplibre-example",
+    "github_url": "https://github.com/remotion-dev/maplibre-example",
+    "category": "数据可视化"
+  },
+  {
+    "folder": "Mapbox地图-mapbox-example",
+    "cn_name": "Mapbox地图",
+    "en_slug": "mapbox-example",
+    "owner": "remotion-dev",
+    "repo": "mapbox-example",
+    "github_url": "https://github.com/remotion-dev/mapbox-example",
+    "category": "数据可视化"
+  },
+  {
+    "folder": "Mockoops模拟UI-Mockoops",
+    "cn_name": "Mockoops模拟UI",
+    "en_slug": "Mockoops",
+    "owner": "Just-Moh-it",
+    "repo": "Mockoops",
+    "github_url": "https://github.com/Just-Moh-it/Mockoops",
+    "category": "其他/工具"
+  },
+  {
+    "folder": "MotionlyVideoSaaS-motionly",
+    "cn_name": "MotionlyVideoSaaS",
+    "en_slug": "motionly",
+    "owner": "karelnagel",
+    "repo": "motionly",
+    "github_url": "https://github.com/karelnagel/motionly",
+    "category": "AI 短视频管线"
+  },
+  {
+    "folder": "Onda波形可视化-onda",
+    "cn_name": "Onda波形可视化",
+    "en_slug": "onda",
+    "owner": "degueba",
+    "repo": "onda",
+    "github_url": "https://github.com/degueba/onda",
+    "category": "音频/字幕"
+  },
+  {
+    "folder": "P5js可视化-p5-poc",
+    "cn_name": "P5js可视化",
+    "en_slug": "p5-poc",
+    "owner": "remotion-dev",
+    "repo": "p5-poc",
+    "github_url": "https://github.com/remotion-dev/p5-poc",
+    "category": "其他/工具"
+  },
+  {
+    "folder": "PR视频预览-example-remotion",
+    "cn_name": "PR视频预览",
+    "en_slug": "example-remotion",
+    "owner": "stoat-dev",
+    "repo": "example-remotion",
+    "github_url": "https://github.com/stoat-dev/example-remotion",
+    "category": "其他/工具"
+  },
+  {
+    "folder": "ProductHunt每日榜-product-hunt-today",
+    "cn_name": "ProductHunt每日榜",
+    "en_slug": "product-hunt-today",
+    "owner": "Kamigami55",
+    "repo": "product-hunt-today",
+    "github_url": "https://github.com/Kamigami55/product-hunt-today",
+    "category": "GitHub 主题"
+  },
+  {
+    "folder": "ReactNative集成-react-native-demo",
+    "cn_name": "ReactNative集成",
+    "en_slug": "react-native-demo",
+    "owner": "remotion-dev",
+    "repo": "react-native-demo",
+    "github_url": "https://github.com/remotion-dev/react-native-demo",
+    "category": "集成/部署"
+  },
+  {
+    "folder": "React峰会演讲-react-summit-talk",
+    "cn_name": "React峰会演讲",
+    "en_slug": "react-summit-talk",
+    "owner": "JonnyBurger",
+    "repo": "react-summit-talk",
+    "github_url": "https://github.com/JonnyBurger/react-summit-talk",
+    "category": "其他/工具"
+  },
+  {
+    "folder": "React视频编辑器-a-react-video-editor",
+    "cn_name": "React视频编辑器",
+    "en_slug": "a-react-video-editor",
+    "owner": "sambowenhughes",
+    "repo": "a-react-video-editor",
+    "github_url": "https://github.com/sambowenhughes/a-react-video-editor",
+    "category": "视频编辑器"
+  },
+  {
+    "folder": "Remotion-Recorder团队工具-recorder",
+    "cn_name": "Remotion-Recorder团队工具",
+    "en_slug": "recorder",
+    "owner": "remotion-dev",
+    "repo": "recorder",
+    "github_url": "https://github.com/remotion-dev/recorder",
+    "category": "视频编辑器"
+  },
+  {
+    "folder": "Remotion-TTS示例-Remotion-TTS-Example",
+    "cn_name": "Remotion-TTS示例",
+    "en_slug": "Remotion-TTS-Example",
+    "owner": "FelippeChemello",
+    "repo": "Remotion-TTS-Example",
+    "github_url": "https://github.com/FelippeChemello/Remotion-TTS-Example",
+    "category": "音频/字幕"
+  },
+  {
+    "folder": "Remotion1.0官方Trailer-trailer",
+    "cn_name": "Remotion1.0官方Trailer",
+    "en_slug": "trailer",
+    "owner": "remotion-dev",
+    "repo": "trailer",
+    "github_url": "https://github.com/remotion-dev/trailer",
+    "category": "Remotion 官方"
+  },
+  {
+    "folder": "Remotion2.0官方Trailer-trailer-2-0",
+    "cn_name": "Remotion2.0官方Trailer",
+    "en_slug": "trailer-2-0",
+    "owner": "remotion-dev",
+    "repo": "trailer-2-0",
+    "github_url": "https://github.com/remotion-dev/trailer-2-0",
+    "category": "Remotion 官方"
+  },
+  {
+    "folder": "Remotion4.0官方Trailer-4-0-trailer",
+    "cn_name": "Remotion4.0官方Trailer",
+    "en_slug": "4-0-trailer",
+    "owner": "remotion-dev",
+    "repo": "4-0-trailer",
+    "github_url": "https://github.com/remotion-dev/4-0-trailer",
+    "category": "Remotion 官方"
+  },
+  {
+    "folder": "RewindTable数据表-rewind-table",
+    "cn_name": "RewindTable数据表",
+    "en_slug": "rewind-table",
+    "owner": "gregonarash",
+    "repo": "rewind-table",
+    "github_url": "https://github.com/gregonarash/rewind-table",
+    "category": "数据可视化"
+  },
+  {
+    "folder": "Rust渲染器-rustymotion",
+    "cn_name": "Rust渲染器",
+    "en_slug": "rustymotion",
+    "owner": "clearlysid",
+    "repo": "rustymotion",
+    "github_url": "https://github.com/clearlysid/rustymotion",
+    "category": "其他/工具"
+  },
+  {
+    "folder": "Shorts定制器-shorts-customizer",
+    "cn_name": "Shorts定制器",
+    "en_slug": "shorts-customizer",
+    "owner": "remotion-dev",
+    "repo": "shorts-customizer",
+    "github_url": "https://github.com/remotion-dev/shorts-customizer",
+    "category": "其他/工具"
+  },
+  {
+    "folder": "Spring动画编辑器-spring-editor",
+    "cn_name": "Spring动画编辑器",
+    "en_slug": "spring-editor",
+    "owner": "remotion-dev",
+    "repo": "spring-editor",
+    "github_url": "https://github.com/remotion-dev/spring-editor",
+    "category": "转场/动效"
+  },
+  {
+    "folder": "Spring弹性动效-spring-loaded",
+    "cn_name": "Spring弹性动效",
+    "en_slug": "spring-loaded",
+    "owner": "JonnyBurger",
+    "repo": "spring-loaded",
+    "github_url": "https://github.com/JonnyBurger/spring-loaded",
+    "category": "转场/动效"
+  },
+  {
+    "folder": "Stargazer星标-pomber-stargazer",
+    "cn_name": "Stargazer星标-pomber",
+    "en_slug": "stargazer",
+    "owner": "pomber",
+    "repo": "stargazer",
+    "github_url": "https://github.com/pomber/stargazer",
+    "category": "GitHub 主题"
+  },
+  {
+    "folder": "Studio多组件Monorepo-remotion-studio-monorepo",
+    "cn_name": "Studio多组件Monorepo",
+    "en_slug": "remotion-studio-monorepo",
+    "owner": "Takamasa045",
+    "repo": "remotion-studio-monorepo",
+    "github_url": "https://github.com/Takamasa045/remotion-studio-monorepo",
+    "category": "集成/部署"
+  },
+  {
+    "folder": "SwiftClip-SwiftClip",
+    "cn_name": "SwiftClip",
+    "en_slug": "SwiftClip",
+    "owner": "zz41354899",
+    "repo": "SwiftClip",
+    "github_url": "https://github.com/zz41354899/SwiftClip",
+    "category": "其他/工具"
+  },
+  {
+    "folder": "ThreeJS-GLB模型-glb-example",
+    "cn_name": "ThreeJS-GLB模型",
+    "en_slug": "glb-example",
+    "owner": "remotion-dev",
+    "repo": "glb-example",
+    "github_url": "https://github.com/remotion-dev/glb-example",
+    "category": "3D/Three.js"
+  },
+  {
+    "folder": "ThreeJS-GLTF模型-remotion-three-gltf-example",
+    "cn_name": "ThreeJS-GLTF模型",
+    "en_slug": "remotion-three-gltf-example",
+    "owner": "remotion-dev",
+    "repo": "remotion-three-gltf-example",
+    "github_url": "https://github.com/remotion-dev/remotion-three-gltf-example",
+    "category": "3D/Three.js"
+  },
+  {
+    "folder": "ThreeJS粒子效果-three-particles",
+    "cn_name": "ThreeJS粒子效果",
+    "en_slug": "three-particles",
+    "owner": "remotion-dev",
+    "repo": "three-particles",
+    "github_url": "https://github.com/remotion-dev/three-particles",
+    "category": "3D/Three.js"
+  },
+  {
+    "folder": "TikTok生成管线-TikTok-Forge",
+    "cn_name": "TikTok生成管线",
+    "en_slug": "TikTok-Forge",
+    "owner": "ezedinff",
+    "repo": "TikTok-Forge",
+    "github_url": "https://github.com/ezedinff/TikTok-Forge",
+    "category": "AI 短视频管线"
+  },
+  {
+    "folder": "ToneJS音乐合成-tone-js-example",
+    "cn_name": "ToneJS音乐合成",
+    "en_slug": "tone-js-example",
+    "owner": "remotion-dev",
+    "repo": "tone-js-example",
+    "github_url": "https://github.com/remotion-dev/tone-js-example",
+    "category": "音频/字幕"
+  },
+  {
+    "folder": "三维粒子效果-JonnyBurger-three-particles",
+    "cn_name": "三维粒子效果-JonnyBurger",
+    "en_slug": "three-particles",
+    "owner": "JonnyBurger",
+    "repo": "three-particles",
+    "github_url": "https://github.com/JonnyBurger/three-particles",
+    "category": "3D/Three.js"
+  },
+  {
+    "folder": "优雅动画-remotion-animated",
+    "cn_name": "优雅动画",
+    "en_slug": "remotion-animated",
+    "owner": "stefanwittwer",
+    "repo": "remotion-animated",
+    "github_url": "https://github.com/stefanwittwer/remotion-animated",
+    "category": "组件库"
+  },
+  {
+    "folder": "办公室仪表盘-the-dashboard",
+    "cn_name": "办公室仪表盘",
+    "en_slug": "the-dashboard",
+    "owner": "remotion-dev",
+    "repo": "the-dashboard",
+    "github_url": "https://github.com/remotion-dev/the-dashboard",
+    "category": "数据可视化"
+  },
+  {
+    "folder": "动画组件库-remotion-bits",
+    "cn_name": "动画组件库",
+    "en_slug": "remotion-bits",
+    "owner": "av",
+    "repo": "remotion-bits",
+    "github_url": "https://github.com/av/remotion-bits",
+    "category": "组件库"
+  },
+  {
+    "folder": "可复用组件-clippkit",
+    "cn_name": "可复用组件",
+    "en_slug": "clippkit",
+    "owner": "reactvideoeditor",
+    "repo": "clippkit",
+    "github_url": "https://github.com/reactvideoeditor/clippkit",
+    "category": "组件库"
+  },
+  {
+    "folder": "天气视频-remotion-weather",
+    "cn_name": "天气视频",
+    "en_slug": "remotion-weather",
+    "owner": "florentpergoud",
+    "repo": "remotion-weather",
+    "github_url": "https://github.com/florentpergoud/remotion-weather",
+    "category": "数据可视化"
+  },
+  {
+    "folder": "字幕处理-remotion-subtitles",
+    "cn_name": "字幕处理",
+    "en_slug": "remotion-subtitles",
+    "owner": "ahgsql",
+    "repo": "remotion-subtitles",
+    "github_url": "https://github.com/ahgsql/remotion-subtitles",
+    "category": "音频/字幕"
+  },
+  {
+    "folder": "心形动画-heart-animation",
+    "cn_name": "心形动画",
+    "en_slug": "heart-animation",
+    "owner": "remotion-dev",
+    "repo": "heart-animation",
+    "github_url": "https://github.com/remotion-dev/heart-animation",
+    "category": "转场/动效"
+  },
+  {
+    "folder": "打字机效果-typewriter",
+    "cn_name": "打字机效果",
+    "en_slug": "typewriter",
+    "owner": "remotion-dev",
+    "repo": "typewriter",
+    "github_url": "https://github.com/remotion-dev/typewriter",
+    "category": "转场/动效"
+  },
+  {
+    "folder": "抖音文字框-TikTokTextBox",
+    "cn_name": "抖音文字框",
+    "en_slug": "TikTokTextBox",
+    "owner": "KyleTryon",
+    "repo": "TikTokTextBox",
+    "github_url": "https://github.com/KyleTryon/TikTokTextBox",
+    "category": "其他/工具"
+  },
+  {
+    "folder": "播客视频制作-podcast-maker",
+    "cn_name": "播客视频制作",
+    "en_slug": "podcast-maker",
+    "owner": "FelippeChemello",
+    "repo": "podcast-maker",
+    "github_url": "https://github.com/FelippeChemello/podcast-maker",
+    "category": "音频/字幕"
+  },
+  {
+    "folder": "故障Glitch特效-remotion-glitch-effect",
+    "cn_name": "故障Glitch特效",
+    "en_slug": "remotion-glitch-effect",
+    "owner": "storybynumbers",
+    "repo": "remotion-glitch-effect",
+    "github_url": "https://github.com/storybynumbers/remotion-glitch-effect",
+    "category": "转场/动效"
+  },
+  {
+    "folder": "数据视频DataVids-datavids_public",
+    "cn_name": "数据视频DataVids",
+    "en_slug": "datavids_public",
+    "owner": "apsquared",
+    "repo": "datavids_public",
+    "github_url": "https://github.com/apsquared/datavids_public",
+    "category": "数据可视化"
+  },
+  {
+    "folder": "文字动画-remotion-animate-text",
+    "cn_name": "文字动画",
+    "en_slug": "remotion-animate-text",
+    "owner": "pskd73",
+    "repo": "remotion-animate-text",
+    "github_url": "https://github.com/pskd73/remotion-animate-text",
+    "category": "转场/动效"
+  },
+  {
+    "folder": "文字变形动画-morph-text",
+    "cn_name": "文字变形动画",
+    "en_slug": "morph-text",
+    "owner": "remotion-dev",
+    "repo": "morph-text",
+    "github_url": "https://github.com/remotion-dev/morph-text",
+    "category": "转场/动效"
+  },
+  {
+    "folder": "文字弯曲变形-text-warping",
+    "cn_name": "文字弯曲变形",
+    "en_slug": "text-warping",
+    "owner": "remotion-dev",
+    "repo": "text-warping",
+    "github_url": "https://github.com/remotion-dev/text-warping",
+    "category": "转场/动效"
+  },
+  {
+    "folder": "时间显示组件-remotion-time",
+    "cn_name": "时间显示组件",
+    "en_slug": "remotion-time",
+    "owner": "fwextensions",
+    "repo": "remotion-time",
+    "github_url": "https://github.com/fwextensions/remotion-time",
+    "category": "其他/工具"
+  },
+  {
+    "folder": "条形竞赛图-remotion-bar-race-chart",
+    "cn_name": "条形竞赛图",
+    "en_slug": "remotion-bar-race-chart",
+    "owner": "hylarucoder",
+    "repo": "remotion-bar-race-chart",
+    "github_url": "https://github.com/hylarucoder/remotion-bar-race-chart",
+    "category": "数据可视化"
+  },
+  {
+    "folder": "波浪Meme生成-wavy-meme",
+    "cn_name": "波浪Meme生成",
+    "en_slug": "wavy-meme",
+    "owner": "JonnyBurger",
+    "repo": "wavy-meme",
+    "github_url": "https://github.com/JonnyBurger/wavy-meme",
+    "category": "转场/动效"
+  },
+  {
+    "folder": "漏光特效-light-leak-example",
+    "cn_name": "漏光特效",
+    "en_slug": "light-leak-example",
+    "owner": "remotion-dev",
+    "repo": "light-leak-example",
+    "github_url": "https://github.com/remotion-dev/light-leak-example",
+    "category": "转场/动效"
+  },
+  {
+    "folder": "演讲录制-record-talk-with-remotion",
+    "cn_name": "演讲录制",
+    "en_slug": "record-talk-with-remotion",
+    "owner": "pomber",
+    "repo": "record-talk-with-remotion",
+    "github_url": "https://github.com/pomber/record-talk-with-remotion",
+    "category": "其他/工具"
+  },
+  {
+    "folder": "片头stinger动效-ledevevent-stinger",
+    "cn_name": "片头stinger动效",
+    "en_slug": "ledevevent-stinger",
+    "owner": "JonnyBurger",
+    "repo": "ledevevent-stinger",
+    "github_url": "https://github.com/JonnyBurger/ledevevent-stinger",
+    "category": "转场/动效"
+  },
+  {
+    "folder": "物理动效-remotion-physics",
+    "cn_name": "物理动效",
+    "en_slug": "remotion-physics",
+    "owner": "hylarucoder",
+    "repo": "remotion-physics",
+    "github_url": "https://github.com/hylarucoder/remotion-physics",
+    "category": "其他/工具"
+  },
+  {
+    "folder": "短视频批量生成-short-video-maker",
+    "cn_name": "短视频批量生成",
+    "en_slug": "short-video-maker",
+    "owner": "gyoridavid",
+    "repo": "short-video-maker",
+    "github_url": "https://github.com/gyoridavid/short-video-maker",
+    "category": "AI 短视频管线"
+  },
+  {
+    "folder": "社交视频生成器-social-video-generator",
+    "cn_name": "社交视频生成器",
+    "en_slug": "social-video-generator",
+    "owner": "lyonjs",
+    "repo": "social-video-generator",
+    "github_url": "https://github.com/lyonjs/social-video-generator",
+    "category": "AI 短视频管线"
+  },
+  {
+    "folder": "缓动函数演示-timing-functions",
+    "cn_name": "缓动函数演示",
+    "en_slug": "timing-functions",
+    "owner": "remotion-dev",
+    "repo": "timing-functions",
+    "github_url": "https://github.com/remotion-dev/timing-functions",
+    "category": "其他/工具"
+  },
+  {
+    "folder": "苹果Wow动画教程-apple-wow-tutorial",
+    "cn_name": "苹果Wow动画教程",
+    "en_slug": "apple-wow-tutorial",
+    "owner": "remotion-dev",
+    "repo": "apple-wow-tutorial",
+    "github_url": "https://github.com/remotion-dev/apple-wow-tutorial",
+    "category": "转场/动效"
+  },
+  {
+    "folder": "视频缓冲控制-video-buffering-example",
+    "cn_name": "视频缓冲控制",
+    "en_slug": "video-buffering-example",
+    "owner": "remotion-dev",
+    "repo": "video-buffering-example",
+    "github_url": "https://github.com/remotion-dev/video-buffering-example",
+    "category": "其他/工具"
+  },
+  {
+    "folder": "视频编辑器模板集-reactvideoeditor-remotion-templates",
+    "cn_name": "视频编辑器模板集-reactvideoeditor",
+    "en_slug": "remotion-templates",
+    "owner": "reactvideoeditor",
+    "repo": "remotion-templates",
+    "github_url": "https://github.com/reactvideoeditor/remotion-templates",
+    "category": "视频编辑器"
+  },
+  {
+    "folder": "视频跳剪-video-with-jump-cuts",
+    "cn_name": "视频跳剪",
+    "en_slug": "video-with-jump-cuts",
+    "owner": "remotion-dev",
+    "repo": "video-with-jump-cuts",
+    "github_url": "https://github.com/remotion-dev/video-with-jump-cuts",
+    "category": "其他/工具"
+  },
+  {
+    "folder": "贡献图Vercel-contribution-graph-vercel",
+    "cn_name": "贡献图Vercel",
+    "en_slug": "contribution-graph-vercel",
+    "owner": "remotion-dev",
+    "repo": "contribution-graph-vercel",
+    "github_url": "https://github.com/remotion-dev/contribution-graph-vercel",
+    "category": "GitHub 主题"
+  },
+  {
+    "folder": "跳剪示例-jumpcuts",
+    "cn_name": "跳剪示例",
+    "en_slug": "jumpcuts",
+    "owner": "remotion-dev",
+    "repo": "jumpcuts",
+    "github_url": "https://github.com/remotion-dev/jumpcuts",
+    "category": "视频排版"
+  },
+  {
+    "folder": "转场宣传片-transitions-video",
+    "cn_name": "转场宣传片",
+    "en_slug": "transitions-video",
+    "owner": "remotion-dev",
+    "repo": "transitions-video",
+    "github_url": "https://github.com/remotion-dev/transitions-video",
+    "category": "转场/动效"
+  },
+  {
+    "folder": "转场序列-remotion-transition-series",
+    "cn_name": "转场序列",
+    "en_slug": "remotion-transition-series",
+    "owner": "marcusstenbeck",
+    "repo": "remotion-transition-series",
+    "github_url": "https://github.com/marcusstenbeck/remotion-transition-series",
+    "category": "转场/动效"
+  },
+  {
+    "folder": "运动模糊-motion-blur-example",
+    "cn_name": "运动模糊",
+    "en_slug": "motion-blur-example",
+    "owner": "remotion-dev",
+    "repo": "motion-blur-example",
+    "github_url": "https://github.com/remotion-dev/motion-blur-example",
+    "category": "转场/动效"
+  },
+  {
+    "folder": "远程加载Composition-remotion-remote-composition",
+    "cn_name": "远程加载Composition",
+    "en_slug": "remotion-remote-composition",
+    "owner": "musafiroon",
+    "repo": "remotion-remote-composition",
+    "github_url": "https://github.com/musafiroon/remotion-remote-composition",
+    "category": "其他/工具"
+  },
+  {
+    "folder": "长视频切片管线-jiang-clips",
+    "cn_name": "长视频切片管线",
+    "en_slug": "jiang-clips",
+    "owner": "ayush-that",
+    "repo": "jiang-clips",
+    "github_url": "https://github.com/ayush-that/jiang-clips",
+    "category": "AI 短视频管线"
+  }
+]
